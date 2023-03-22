@@ -1,0 +1,39 @@
+{
+  "manifest": {
+    "version": "0.0.1",
+    "name": "Blue Haze",
+    "transparency_mode": 0,
+    "author": "Sarah!#3862",
+    "license": "CatCord INC"
+  },
+  "background": {
+    "blur_radius": 0
+  },
+  "simple_colors": {
+    "background": -13553873,
+    "input_background": -13553873
+  },
+  "colors": {
+    "primary_dark_630": -13553873,
+    "primary_dark_360": -7152411,
+    "white_500": -7152411,
+    "uikit_settings_item_text_color_light": -13553873,
+    "primary_700": -13553873,
+    "primary_dark_200": -7152411,
+    "link": -16284491,
+    "brand_new_560": -13553873,
+    "primary_dark_660": -13553873,
+    "primary_dark_300": -7152411,
+    "uikit_settings_item_text_color_dark": -7152411,
+    "uikit_btn_compound_color_selector_dark": -7152411,
+    "primary_dark_800": -13553873,
+    "primary_dark_330": -7152411
+  },
+  "drawable_tints": {
+    "ic_status_online_16dp": -7152411,
+    "ic_mobile": -7152411,
+    "ic_sidebar_pins_off_dark_24dp": -7152411,
+    "ic_sidebar_notifications_on_dark_24dp": -7152411,
+    "ic_channel_text": -7152411
+  }
+}
